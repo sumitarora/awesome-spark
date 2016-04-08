@@ -48,6 +48,12 @@ A curated list of [Apache Spark](http://spark.apache.org/) resources that develo
 * [Intro to Apache Spark](http://stanford.edu/~rezab/sparkclass/slides/itas_workshop.pdf)
 * [Spark Tutorial](http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html)
 * [Spark RDD Examples](http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html)
+* [Sparkhub](https://sparkhub.databricks.com/)
+* [Spark CLI - AmpCmp](http://ampcamp.berkeley.edu/3/exercises/index.html)
+
+## Tools
+* [Spark Packages](http://spark-packages.org/)
 
 ### Videos
-* [The Apache Spark](https://www.youtube.com/user/TheApacheSpark)
+* [The Apache Spark - Channel](https://www.youtube.com/user/TheApacheSpark)
+* [Databricks - Channel](https://www.youtube.com/channel/UC3q8O3Bh2Le8Rj1-Q-_UUbA)
