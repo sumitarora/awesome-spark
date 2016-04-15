@@ -59,6 +59,7 @@ A curated list of [Apache Spark](http://spark.apache.org/) resources that develo
 ## Tools
 * [Developer Resources](https://databricks.com/spark/developer-resources)
 * [Spark Packages](http://spark-packages.org/)
+* [Spark Notebook](https://github.com/andypetrella/spark-notebook)
 
 ### Videos
 * [The Apache Spark - Channel](https://www.youtube.com/user/TheApacheSpark)
