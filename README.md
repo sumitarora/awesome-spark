@@ -67,7 +67,7 @@ Apache Spark is a cluster computing platform designed to be fast and general pur
 
 ---
 
-## Tools
+### Tools
 * [Deep Spark](https://github.com/Stratio/deep-spark)
 * [Developer Resources](https://databricks.com/spark/developer-resources)
 * [FiloDB](https://github.com/tuplejump/FiloDB)
