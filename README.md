@@ -18,7 +18,7 @@ A curated list of [Apache Spark](http://spark.apache.org/) resources that develo
 
 # What is Spark?
 
-> Apache Spark is a cluster computing platform designed to be fast and general purpose engine for large-scale data processing.
+Apache Spark is a cluster computing platform designed to be fast and general purpose engine for large-scale data processing.
 
 # Why Spark?
 
@@ -29,39 +29,60 @@ A curated list of [Apache Spark](http://spark.apache.org/) resources that develo
 * Spark consists of API in many programming languages supported - Scala, Java, Python, R consists of Unified development and deployment environment for all
 * Regardless of which programming language you are good at, be it Scala, Java, Python or R, you can use the same single clustered runtime environment for prototyping
 
+---
+
 ### Books
 * [Databricks Spark Reference Applications](https://www.gitbook.com/book/databricks/databricks-spark-reference-applications/details)
 * [Databricks Spark Knowledge Base](https://www.gitbook.com/book/databricks/databricks-spark-knowledge-base/details)
 * [Getting Started with Apache Spark](https://www.mapr.com/ebooks/spark/)
 * [Mastering Apache Spark](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
 
+---
+
 ### Courses
-* [Introduction to Spark](https://www.edx.org/course/introduction-spark-uc-berkeleyx-cs105x)
-* [Big Data Analysis with Spark](https://www.edx.org/course/big-data-analysis-spark-uc-berkeleyx-cs110x)
-* [Distributed Machine Learning with Spark](https://www.edx.org/course/distributed-machine-learning-spark-uc-berkeleyx-cs120x)
 * [Advanced Distributed Machine Learning with Spark](https://www.edx.org/course/advanced-distributed-machine-learning-uc-berkeleyx-cs125x)
 * [Advanced Spark for Data Science and Data Engineering](https://www.edx.org/course/advanced-spark-data-science-data-uc-berkeleyx-cs115x)
+* [Big Data Analysis with Spark](https://www.edx.org/course/big-data-analysis-spark-uc-berkeleyx-cs110x)
+* [Distributed Machine Learning with Spark](https://www.edx.org/course/distributed-machine-learning-spark-uc-berkeleyx-cs120x)
+* [Introduction to Spark](https://www.edx.org/course/introduction-spark-uc-berkeleyx-cs105x)
 * [Spark Fundamentals I](http://bigdatauniversity.com/courses/spark-fundamentals/)
 * [Spark Fundamentals II](http://bigdatauniversity.com/courses/spark-fundamentals-ii/)
-* [Spark Programming with Python](http://bigdatauniversity.com/courses/spark-programming-with-python/)
 * [Spark Mini Course](http://ampcamp.berkeley.edu/big-data-mini-course/)
 * [Spark Overview](http://bigdatauniversity.com/courses/spark-overview/)
+* [Spark Programming with Python](http://bigdatauniversity.com/courses/spark-programming-with-python/)
 * [Spark Summit Training](https://databricks-training.s3.amazonaws.com/index.html)
 
+---
+
 ### Links & Tutorials
-* [Spark Resources](https://wegetsignal.wordpress.com/2015/02/25/spark-resources/)
+* [Data Scientists Guide](https://github.com/Jay-Oh-eN/data-scientists-guide-apache-spark)
 * [Intro to Apache Spark](http://stanford.edu/~rezab/sparkclass/slides/itas_workshop.pdf)
-* [Spark Tutorial](http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html)
-* [Spark RDD Examples](http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html)
-* [Sparkhub](https://sparkhub.databricks.com/)
 * [Spark CLI - AmpCmp](http://ampcamp.berkeley.edu/3/exercises/index.html)
+* [Spark Internals](https://github.com/JerryLead/SparkInternals)
+* [Spark RDD Examples](http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html)
+* [Spark Resources](https://wegetsignal.wordpress.com/2015/02/25/spark-resources/)
+* [Spark Tutorial](http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html)
+* [Sparkhub](https://sparkhub.databricks.com/)
+
+
+---
 
 ## Tools
+* [Deep Spark](https://github.com/Stratio/deep-spark)
 * [Developer Resources](https://databricks.com/spark/developer-resources)
+* [FiloDB](https://github.com/tuplejump/FiloDB)
+* [Spark Cookbook](https://github.com/clearstorydata-cookbooks/apache_spark)
+* [Spark Indexedrdd](https://github.com/amplab/spark-indexedrdd)
+* [Spark OpenTSDB](https://github.com/achak1987/opentsdb-spark)
 * [Spark Packages](http://spark-packages.org/)
+* [Spark Timeseries](https://github.com/sryza/spark-timeseries)
+* [Sparkle](https://github.com/tweag/sparkle)
+* [Sparkling](https://github.com/gorillalabs/sparkling)
+
+---
 
 ### Videos
-* [The Apache Spark - Channel](https://www.youtube.com/user/TheApacheSpark)
 * [Databricks - Channel](https://www.youtube.com/channel/UC3q8O3Bh2Le8Rj1-Q-_UUbA)
 * [Edureka - Apache Spark & Scala Tutorial](https://www.youtube.com/watch?v=7k_9sdTOdX4&list=PL9ooVrP1hQOGyFc60sExNX1qBWJyV5IMb)
 * [Getting Started - Apache Spark](https://www.youtube.com/playlist?list=PLf0swTFhTI8rjBS9zJGReO1IWLf7Lpi7g&nohtml5=False)
+* [The Apache Spark - Channel](https://www.youtube.com/user/TheApacheSpark)

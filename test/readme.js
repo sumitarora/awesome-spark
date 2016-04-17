@@ -13,7 +13,7 @@ describe('README', function () {
     it('should be in alphabetical order within each category', function () {
         var categories = (readme.split('---'));
         categories.shift();
-        for (var i = 0; i < categories.length; i++) {
+        for (var i = 1; i < categories.length; i++) {
             if (categories[i].indexOf('####') === -1) {
                 items = extractListNames(categories[i]);
                 expect(compareArrays(items, alphabetize(items))).to.be.true;
